@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "cordova-plugin-device": "registry:dt/cordova-plugin-device#0.0.0+20160919075538",
+    "cordova-plugin-dialogs": "registry:dt/cordova-plugin-dialogs#0.0.0+20160819210047"
+  }
+}
